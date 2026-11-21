@@ -1,0 +1,41 @@
+﻿text,label
+"Hey, are we still meeting at the library around 5 PM today?",ham
+"Can you send me the notes from today's lecture when you get free?",ham
+"Your package delivery is scheduled for tomorrow afternoon.",ham
+"Lunch at 1:30? I'm near the main gate.",ham
+"Reminder: Project review meeting is at 10 AM tomorrow.",ham
+"Thanks for sharing the file, got it working on my end.",ham
+"Did you push the latest commit to the repo yet?",ham
+"Picking up groceries on the way home, need anything?",ham
+"Your electricity bill payment of Rs 1,240 was received. Thank you.",ham
+"Train is running 15 minutes late at the next station.",ham
+"Let's review the dataset cleanup script after 4 PM.",ham
+"Happy birthday! Hope you have a great day ahead.",ham
+"Your appointment is confirmed for Thursday at 11:00 AM.",ham
+"Attached is the draft presentation for tomorrow's session.",ham
+"I'll be offline for an hour while traveling back.",ham
+"Can we reschedule our call to tomorrow morning?",ham
+"Your OTP for login is 482910. Do not share it with anyone.",ham
+"Meeting notes are updated in the shared folder.",ham
+"See you at practice tomorrow evening.",ham
+"Just reached home safely.",ham
+"URGENT: Your bank account will be suspended today. Verify KYC now at http://bit.ly/fake-kyc-update",spam
+"Security Alert: Unusual sign-in detected from a new device. Reset your password immediately via our portal.",phishing
+"Congratulations! You won a Rs 50,000 cash voucher. Claim at http://win-prize-now.example/claim",spam
+"Your parcel could not be delivered due to incomplete address. Update details at http://track-parcel.example",phishing
+"Action required: Your mailbox storage is 99% full. Keep your current address via http://mail-verify.example",phishing
+"FREE entry in 2 wkly comp to win FA Cup final tkts! Text FA to 87121 to receive entry question",spam
+"Instant personal loan approved up to Rs 5,00,000 with zero paperwork. Apply at http://fast-loan-offer.example",spam
+"Your PAN card is linked to an inactive status. Update PAN and bank details now to avoid freeze.",phishing
+"Final notice: Unpaid traffic challan pending. Pay immediately at http://challan-pay-alert.example",phishing
+"Get pre-approved credit card with low EMI and instant cashback! Click http://card-deals.example/apply",spam
+"Alert: Your account password expires in 2 hours. Confirm credentials at http://sso-security-check.example",phishing
+"Limited time offer: Flat 80% off luxury watches + free gift! Shop now at http://mega-clearance.example",spam
+"We detected a suspicious transaction on your debit card. Verify now to stop auto-debit.",phishing
+"Work from home and earn Rs 3,000 daily part-time on WhatsApp. Register at http://easy-income.example",spam
+"Tax refund of Rs 14,800 is on hold. Submit bank verification form at http://tax-refund-claim.example",phishing
+"Exclusive investment tip: Double your crypto returns in 7 days. Join VIP at http://crypto-signals.example",spam
+"Your courier shipment is held at customs. Clear fee online at http://customs-release.example",phishing
+"Win a brand new smartphone in today's lucky draw! Enter mobile number at http://spin-reward.example",spam
+"HR Notice: Mandatory salary revision document requires sign-in at http://hr-portal-verify.example",phishing
+"Pre-approved EMI loan ready for disbursal. Verify Aadhaar and PAN details in 2 minutes.",phishing

@@ -1,0 +1,13 @@
+text,label
+"Hey, are we still meeting at the library around 5 PM today?",ham
+"Can you send me the notes from today's lecture when you get free?",ham
+"Your package delivery is scheduled for tomorrow afternoon.",ham
+"Lunch at 1:30? I'm near the main gate.",ham
+"Reminder: Project review meeting is at 10 AM tomorrow.",ham
+"Thanks for sharing the file, got it working on my end.",ham
+"URGENT: Your bank account will be suspended today. Verify KYC now at http://bit.ly/fake-kyc-update",spam
+"Security Alert: Unusual sign-in detected from a new device. Reset your password immediately via our portal.",phishing
+"Congratulations! You won a Rs 50,000 cash voucher. Claim at http://win-prize-now.example/claim",spam
+"Your parcel could not be delivered due to incomplete address. Update details at http://track-parcel.example",phishing
+"Action required: Your mailbox storage is 99% full. Keep your current address via http://mail-verify.example",phishing
+"FREE entry in 2 wkly comp to win FA Cup final tkts! Text FA to 87121 to receive entry question",spam
